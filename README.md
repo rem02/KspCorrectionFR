@@ -9,3 +9,5 @@ Exemple de correction:
 	- Harmonisation du terme degrés avec le symbole °
 	- Trad de terme non traduit.
 	...
+	
+ATTENTION: Patch personel avant de finir le patch de correction avec l'équipe de traduction FR !
